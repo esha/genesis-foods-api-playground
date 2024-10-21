@@ -1,0 +1,33 @@
+# Application
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+
+# Virtual Environments
+venv/
+env/
+bin/
+lib/
+lib64/
+include/
+.tox/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# General
+.DS_Store

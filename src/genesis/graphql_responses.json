@@ -1,0 +1,211 @@
+[
+{
+    "data": {
+        "foods": {
+            "search": {
+                "foodSearchResults": [
+                    {
+                        "id": "38b492c3-8461-4ff8-5ef8-ee69ecb67fee",
+                        "name": "Chicken Caesar Salad",
+                        "modified": "2024-03-09T01:00:54.8548017+00:00",
+                        "created": "2024-03-09T01:00:20.3776856+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "a3bcf576-b478-449b-9415-e1442d0cceda"
+                    },
+                    {
+                        "id": "569a7898-45a0-42b8-5ef8-ee69ecb67fee",
+                        "name": "Chocolate Hot Sauce",
+                        "modified": "2024-03-01T18:10:01.3870222+00:00",
+                        "created": "2024-02-22T21:14:29.3660414+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "0f0cb0e9-609d-4b0e-a1a7-70d5a239b78e"
+                    },
+                    {
+                        "id": "90313e0c-b964-439d-bc26-78cec3801641",
+                        "name": "Testing Error",
+                        "modified": "2024-09-11T04:44:04.5504744+00:00",
+                        "created": "2024-06-14T16:51:29.0654905+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "d4b95e1b-5cc8-46c3-a396-3c196290e2d5"
+                    },
+                    {
+                        "id": "1593de4d-7da8-4635-b27a-2e233a4b634c",
+                        "name": "Cookie Sugar R0001",
+                        "modified": "2024-09-11T18:30:23.6469021+00:00",
+                        "created": "2024-09-11T18:08:22.6157598+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": "1AGoods",
+                        "supplier": null,
+                        "versionHistoryId": "139a91b0-ab1d-4e02-b72e-b712cb391ec2"
+                    },
+                    {
+                        "id": "e4d5b90b-eeec-48f5-b2ab-ae71c49c61ca",
+                        "name": "Rene Recipe",
+                        "modified": "2024-09-12T15:14:20.858548+00:00",
+                        "created": "2024-09-12T15:11:46.0532657+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "633205f0-a76c-431c-9ae2-80eff7a55348"
+                    },
+                    {
+                        "id": "d47ed242-7f5a-485f-9443-36e83b9bed46",
+                        "name": "TestRefRecLight 4941",
+                        "modified": "2024-09-17T12:01:46.1488538+00:00",
+                        "created": "2024-09-17T12:01:46.0079217+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "0f4b8015-ed58-4048-a4ab-042dd1ea6650"
+                    },
+                    {
+                        "id": "53b3c0ed-e76d-4fc8-bbd9-58116e339c92",
+                        "name": "TestRec 5651",
+                        "modified": "2024-09-17T12:03:52.9776825+00:00",
+                        "created": "2024-09-17T12:01:33.7529547+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "ffdd3c01-f880-424a-8e5d-58829d068a61"
+                    },
+                    {
+                        "id": "e7544a49-b0e7-43d7-8243-11951ef4aa31",
+                        "name": "TestRefRec 965",
+                        "modified": "2024-09-17T12:01:40.0891515+00:00",
+                        "created": "2024-09-17T12:01:39.8822685+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "10342d74-b5f3-4321-9d47-870659766959"
+                    },
+                    {
+                        "id": "d27c6ad7-8018-4f79-914a-3235763e4c8d",
+                        "name": "HS-FLQ-Juice",
+                        "modified": "2024-09-17T13:17:15.5864645+00:00",
+                        "created": "2024-09-17T12:04:31.6552559+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "0000aabe-e77d-443f-873a-09fdfe1f4183"
+                    },
+                    {
+                        "id": "6e69cae7-de56-4ff0-5ef8-ee69ecb67fee",
+                        "name": "HS-FLQ-Juice",
+                        "modified": "2024-09-17T13:19:40.0853747+00:00",
+                        "created": "2024-09-17T13:17:18.0114772+00:00",
+                        "versionName": "V2",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "0000aabe-e77d-443f-873a-09fdfe1f4183"
+                    },
+                    {
+                        "id": "a4fcfb29-460e-410a-a49f-5488b3bed66c",
+                        "name": "HS-FLQ-Juice-QA",
+                        "modified": "2024-09-18T18:38:11.6037325+00:00",
+                        "created": "2024-09-13T16:16:06.5025136+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "42837be5-8408-43a6-bd1f-f0060c0a7eda"
+                    },
+                    {
+                        "id": "3a64512b-dc9a-4bc1-9999-9ced08126e93",
+                        "name": "AA - MANGO PUREE",
+                        "modified": "2024-09-20T18:37:16.307779+00:00",
+                        "created": "2024-09-20T18:23:03.9291+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "6789f0d6-3e02-4c24-892e-4bc548ef1933"
+                    },
+                    {
+                        "id": "7b427c59-489b-4ac6-a65c-a14eed3c9ba1",
+                        "name": "API Bulk Add Recipe:fa8c419b-ab52-4a59-b7d7-e19d1259fdb3",
+                        "modified": "2024-10-15T17:58:37.9507133+00:00",
+                        "created": "2024-10-15T17:58:37.9507133+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "1ad7ad15-04b0-48e3-b320-ab7d2e1450a6"
+                    },
+                    {
+                        "id": "a81501e0-517e-43eb-a6d7-9d11f839ad74",
+                        "name": "API Bulk Add Recipe:58b39c5b-36c0-4270-84bd-b6de6c234091",
+                        "modified": "2024-10-15T17:58:38.4196919+00:00",
+                        "created": "2024-10-15T17:58:38.4196919+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "fd3c6560-8be8-4748-9e19-0c14440c76da"
+                    },
+                    {
+                        "id": "d3589cee-0cac-4ad0-864d-cd0cfba31234",
+                        "name": "API Bulk Add Recipe:ba386981-6ab9-492c-a26a-0961de1f4b7a",
+                        "modified": "2024-10-15T18:08:04.7348298+00:00",
+                        "created": "2024-10-15T18:08:04.7348298+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "0afddf68-4995-47a9-990d-9f3bb3904675"
+                    },
+                    {
+                        "id": "e829eb4a-6dd3-4c76-b956-b75ab68562a2",
+                        "name": "API Bulk Add Recipe:604c9dd3-3ad1-46bd-8a28-7e2499d9b040",
+                        "modified": "2024-10-15T18:08:05.1740011+00:00",
+                        "created": "2024-10-15T18:08:05.1740011+00:00",
+                        "versionName": "V1",
+                        "eshaCode": null,
+                        "foodType": "Recipe",
+                        "product": null,
+                        "supplier": null,
+                        "versionHistoryId": "167f3b2c-3ba3-428c-9ede-bf4fc3946065"
+                    }
+                ],
+                "totalCount": 16,
+                "pageInfo": {
+                    "cursor": 16,
+                    "hasNextPage": false,
+                    "startCursor": 0,
+                    "endCursor": 16
+                }
+            }
+        }
+    }
+}
+]

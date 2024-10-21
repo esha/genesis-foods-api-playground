@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genesis-api-playground"
+version = "0.1.0"
+description = "A Python 3 playground for interacting with the Genesis Foods GraphQL API."
+authors = [
+    { name = "Doug Bell", email = "dbell@trustwell.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.0",
+    "urllib3==1.26.6"
+]

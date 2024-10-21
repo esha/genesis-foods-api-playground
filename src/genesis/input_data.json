@@ -1,0 +1,96 @@
+[
+  {
+    "name": "API Bulk Add",
+    "isApproved": false,
+    "version": 1,
+    "foodType": "Ingredient",
+    "definingAmount": {
+      "quantity": {
+        "value": "100"
+      },
+      "unit": {
+        "id": "a7df0af5-0008-0000-7484-751e8eaf05c6",
+        "name": "Gram"
+      }
+    },
+    "conversions": [
+      {
+        "from": {
+          "quantity": {
+            "value": "1"
+          },
+          "unit": {
+            "id": "a7df0af5-0063-0000-7484-751e8eaf05c6",
+            "name": "Batch Weight"
+          }
+        },
+        "to": {
+          "quantity": {
+            "value": "100"
+          },
+          "unit": {
+            "id": "a7df0af5-0008-0000-7484-751e8eaf05c6",
+            "name": "Gram"
+          }
+        }
+      },
+      {
+        "from": {
+          "quantity": {
+            "value": "100"
+          },
+          "unit": {
+            "id": "a7df0af5-0008-0000-7484-751e8eaf05c6",
+            "name": "Gram"
+          }
+        },
+        "to": {
+          "quantity": {
+            "value": "1"
+          },
+          "unit": {
+            "id": "a7df0af5-0064-0000-7484-751e8eaf05c6",
+            "name": "Batch Yield"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "API Bulk Add",
+    "isApproved": true,
+    "version": 1,
+    "foodType": "Ingredient",
+    "definingAmount": {
+      "quantity": {
+        "value": "200"
+      },
+      "unit": {
+        "id": "a7df0af5-0008-0000-7484-751e8eaf05c6",
+        "name": "Gram"
+      }
+    },
+    "conversions": [
+      {
+        "from": {
+          "quantity": {
+            "value": "1"
+          },
+          "unit": {
+            "id": "a7df0af5-0063-0000-7484-751e8eaf05c6",
+            "name": "Batch Weight"
+          }
+        },
+        "to": {
+          "quantity": {
+            "value": "200"
+          },
+          "unit": {
+            "id": "a7df0af5-0008-0000-7484-751e8eaf05c6",
+            "name": "Gram"
+          }
+        }
+      }
+    ]
+  }
+]
