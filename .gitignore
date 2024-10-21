@@ -1,5 +1,6 @@
 # Application
 logs/
+dist/ 
 
 # Python
 __pycache__/
