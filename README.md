@@ -19,14 +19,14 @@ The current version is 1.0.0
 
 ### Development (Command Line)
 
-1. git clone git@bitbucket.org:douglasbell/genesis-foods-api-playground.git
+1. git clone https://github.com/esha/genesis-foods-api-examples
 2. Create a virtualenv 
 3. Activate the virtualenv 
 4. python setup.py install
 
 ### Development (PyCharm)
 
-1. git clone git@bitbucket.org:douglasbell/genesis-foods-api-playground.git
+1. git clone https://github.com/esha/genesis-foods-api-examples
 2. Open the project in PyCharm it will suggest creating a virtualenv accept the suggestion
 3. PyCharm will ask to install the requirements, accept the suggestion
 4. You can then run directly from within PyCharm
